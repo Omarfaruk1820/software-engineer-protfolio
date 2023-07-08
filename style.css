@@ -44,8 +44,50 @@ nav ul li{
 }
 .header{
     background-color:#FFF8F3;
+    background-image:url("busy.jpg");
+    background-repeat: no-repeat;
+    
+    
 }
 .banner{
-    padding:30px 30px 30px 150px;
+    padding:30px 30px 0px 150px;
     display:flex;
+    align-items:center;
+}
+.banner .profile{
+    width:400px;
+    height:300px;
+}
+.banner-h3{
+    font-size:45px;
+    color:#474747;
+    margin-bottom:0px;
+
+}
+.banner-h1{
+    font-size:70px;
+    font-style:normal;
+    font-weight:700;
+    margin-top:5px;
+}
+.banner-content{
+    max-width:500px;
+}
+.banner.paragraph{
+
+font-size:15px;
+
+}
+.about{
+    margin:130px;
+    padding:130px;
+    border-radius:10px;
+    background:#FFF8F3;
+
+}
+.about-h3{
+    text-align:center;
+}
+main{
+    max-width:1140px;
 }
