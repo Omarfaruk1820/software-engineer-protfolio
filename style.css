@@ -93,6 +93,7 @@ main{
 }
 main section{
     margin-top:100px;
+    
 }
 .About-info-container{
     display:flex;
@@ -148,5 +149,33 @@ main section{
     color:#474747;
     font-size:30px;
     font-weight:700;
+}
+.resume-container{
+    display:flex;
+    gap:30px;
+    padding-left:150px;
+}
+.resume-items-description{
+    color:#757575;
+}
+.resume-items-title{
+    color:#474747;
+    font-size:25px;
+    font-weight:700;
+}
+.resume-items-institute{
+    color:#474747;
+    font-size:25px;
+    font-weight:700; 
+    margin-top:20px;  
+}
+.resume-container hr{
+    margin:20px;
+    
+
+}
+.download-cv{
+    text-align:center;
+    margin-top:20px;
 }
 
