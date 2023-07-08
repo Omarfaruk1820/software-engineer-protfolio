@@ -88,4 +88,16 @@ font-size:15px;
 .about-h3{
     text-align:center;
 }
+main{
+    max-width:1185px;
+}
+.About-info-container{
+    display:flex;
+    justify-content:space-around;
+    text-align:center;
+
+}
+.about-info{
+    text-align:center;
+}
 
